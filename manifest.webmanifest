@@ -1,0 +1,16 @@
+{
+  "name": "足印 · 练习与身体手记",
+  "short_name": "足印",
+  "description": "给舞蹈生的日常练习本：快捷记录、身体地图、次日回访和沟通整理。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f4f0",
+  "theme_color": "#f7f4f0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
